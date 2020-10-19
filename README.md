@@ -1,2 +1,2 @@
 # mergeQuest
-salade tomate pomme carotte brocoli
+salade tomate pomme carotte brocoli REMOTE
